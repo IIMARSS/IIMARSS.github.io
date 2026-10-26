@@ -18,11 +18,11 @@ latest_posts:
 
 I am a Ph.D. student in Electrical Engineering at Southwest Jiaotong University, supervised by Prof. Guoqiang Gao. I received my master's degree in Electronic and Information Engineering from Wuhan Polytechnic University in 2023, under the supervision of Prof. Shan Zeng, and my bachelor's degree in Information and Computational Science from Tiangong University in 2020.
 
-My research focuses on hyperspectral image processing and deep learning, with interests in spectral-spatial representation learning, image classification, hyperspectral unmixing, and efficient neural networks. My doctoral research investigates the characterization and recognition of insulator contamination under natural illumination and varying observation distances. I design outdoor hyperspectral experiments and develop learning methods for spectral analysis and contamination-level recognition.
+My research focuses on deep learning and hyperspectral image processing, with an emphasis on representation learning and neural network design. I develop methods for image classification, hyperspectral unmixing, and super-resolution, studying how spectral dependencies and spatial structures can be jointly modeled to support image understanding and reconstruction.
 
-My current work also explores recurrent spectral representations for hyperspectral super-resolution. In addition, I contribute to a National Key Research and Development Program of China project on the interaction and modeling of electricity, hydrogen, and thermal energy flows.
+I am particularly interested in multi-scale feature learning, recurrent and retention-based architectures, and knowledge distillation. My current work explores how spectral information can be retained and propagated through neural networks, and how learned representations can be transferred to compact models. A central goal of my research is to balance representation quality, robustness, and computational efficiency.
 
-**Research interests:** Hyperspectral imaging · Deep learning · Spectral-spatial representation learning · Hyperspectral unmixing and super-resolution · Efficient neural networks
+**Research interests:** Deep learning · Hyperspectral image processing · Spectral-spatial representation learning · Hyperspectral unmixing and super-resolution · Efficient neural networks
 
 [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Download CV]({{ '/assets/pdf/Junbo_Zhou_CV.pdf' | relative_url }})
 

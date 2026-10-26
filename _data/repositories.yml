@@ -1,14 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
-
+# The template's example GitHub profiles and repositories have been removed.
+# This file does not control the real repositories in your GitHub account.
+# To restore this page later, fill in your own public usernames/repositories
+# and remove _pages/repositories.md from _config.yml -> exclude.
+github_users: []
 repo_description_lines_max: 2
-
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+github_repos: []
