@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JunboZhou98.github.io/al-folio/sitemap.xml
+Sitemap: https://JunboZhou98.github.io/sitemap.xml
