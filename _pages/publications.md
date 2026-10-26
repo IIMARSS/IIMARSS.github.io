@@ -23,7 +23,7 @@ nav_order: 2
 
 ## Manuscripts Under Review
 
-{% include junbo_manuscripts.md %}
+*I currently have five manuscripts under review.*
 
 ## Academic Profiles
 
