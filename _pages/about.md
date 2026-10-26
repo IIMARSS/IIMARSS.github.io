@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Electrical Engineering at Southwest Jiaotong University, supervised by Prof. Guoqiang Gao. I received my master's degree in Electronic and Information Engineering from Wuhan Polytechnic University in 2023, under the supervision of Prof. Shan Zeng, and my bachelor's degree in Information and Computational Science from Tiangong University in 2020.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on hyperspectral image processing and deep learning, with interests in spectral-spatial representation learning, image classification, hyperspectral unmixing, and efficient neural networks. My doctoral research investigates the characterization and recognition of insulator contamination under natural illumination and varying observation distances. I design outdoor hyperspectral experiments and develop learning methods for spectral analysis and contamination-level recognition.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current work also explores recurrent spectral representations for hyperspectral super-resolution. In addition, I contribute to a National Key Research and Development Program of China project on the interaction and modeling of electricity, hydrogen, and thermal energy flows.
